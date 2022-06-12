@@ -1,6 +1,7 @@
 body {
   font-family: "Raleway", sans-serif;
-}
+  background-image: url(/assets/img/fondo-patas.jpg);
+  }
 
 /* Hero Section */
 
@@ -33,12 +34,12 @@ body {
     font-weight: 400;
   }
 
-  .navbar-brand{
+  .navbar-brand {
     width: 100px;
   }
 
 }
 
-.namecolor{
+.namecolor {
   color: white;
 }
