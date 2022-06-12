@@ -5,9 +5,10 @@ body {
 /* Hero Section */
 
 #Hero-Section {
-  background-image: url("../img/bg-hero.jpg");
+  background-color: rgb(59, 50, 6);
+  background-image: url(/assets/img/mango-bg.jpg);
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 800px;
   background-position: left;
 }
 
